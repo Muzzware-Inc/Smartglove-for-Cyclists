@@ -1,6 +1,6 @@
 # Smartglove-for-Cyclists
 
-![Smart-gloves](/images/smartgloves)
+![Smart-gloves](/images/smartgloves.jpg)
 
 __How it works:__
 
